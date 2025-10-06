@@ -65,6 +65,6 @@ Thai : Native | English : Intermediate | Japan : Beginner
 
 ### My GitHub Stats
 
-<a href="https://github.com/KidsadakornNuallaoong"><img src="https://github-readme-stats.vercel.app/api?username=KidsadakornNuallaoong&show_icons=true&hide=&count_private=true&theme=radical&hide_border=true&show_icons=true" alt="KidsadakornNuallaoong's GitHub stats" /></a>
+<a href="https://github.com/KridsadakornNuallaoong"><img src="https://github-readme-stats.vercel.app/api?username=KridsadakornNuallaoong&show_icons=true&hide=&count_private=true&theme=radical&hide_border=true&show_icons=true" alt="KridsadakornNuallaoong's GitHub stats" /></a>
 
-<a href="https://github.com/KidsadakornNuallaoong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KidsadakornNuallaoong&langs_count=20&theme=radical&hide_border=true&include_all_ccommits=true&count_private=true&layout=compact" alt="Top Languages" /></a>
+<a href="https://github.com/KridsadakornNuallaoong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KridsadakornNuallaoong&langs_count=20&theme=radical&hide_border=true&include_all_ccommits=true&count_private=true&layout=compact" alt="Top Languages" /></a>
