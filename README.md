@@ -27,6 +27,7 @@ Thai : Native | English : Intermediate | Japan : Beginner
 ### 👾 Program
 
 - Visual Code Studio
+- Zed Code Editor
 - Arduino IDE
 - Docker
 - Blender
