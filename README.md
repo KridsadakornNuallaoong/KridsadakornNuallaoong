@@ -21,7 +21,7 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
 ###
 
 <a href="/" target="_blank">
-  
+  <img src="https://img.shields.io/badge/Thai-Native-609e72?style=for-the-badge&logo=thailand&logoColor=white" alt="Thai Language Badge" />
 </a>
 <a href="/" target="_blank">
   <img src="https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge&logo=english&logoColor=white" alt="English Language Badge" />
