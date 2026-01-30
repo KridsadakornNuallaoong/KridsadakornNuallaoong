@@ -6,6 +6,7 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
 <summary>📫 Connect with me</summary>
 
 ###
+
 <a href="https://www.linkedin.com/in/krid" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
@@ -17,7 +18,8 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
 <details open>
 <summary>🔠 Language</summary>
 
-### 
+###
+
 <a href="/" target="_blank">
   <img src="https://img.shields.io/badge/Thai-Native-609e72?style=for-the-badge&logo=thailand&logoColor=white" alt="Thai Language Badge" />
 </a>
@@ -36,36 +38,33 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
 
 <div align="center">
 
-| Skills                | Description                                                                                                     |
-| --------------------- | --------------------------------------------------------------------------------------------------------------- |
-| c/c++                 | Object Oriented Programming, AI, Image, API, Parallel computing, Internet of things ( Arduino, ESP32, ESP32S3 ) |
-| Rust                  | (in learning)                                                                                                   |
-| VHDL                  | Hardware component design                                                                                       |
-| Python                | AI, Image processing, Data Analysis                                                                             |
-| JavaScript/TypeScript | Web development ( React, Vite, NextJS ), API, Chatbot ( Discord )                                               |
-| Go                    | API, microservices architecture, monolith architecture                                                          |
-| Java                  | Object Oriented Programming                                                                                     |
-| Matlab                | Design model AI, Data Analysis, Generate model to C/C++                                                         |
+| Skills                | Description                                                                                                                                             |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| c/c++                 | Object Oriented Programming, AI, Image, Application Programming Interface (API), Parallel computing, Internet of things ( Arduino, ESP32 Series, STM32) |
+| Rust                  | (in learning)                                                                                                                                           |
+| VHDL                  | Hardware component (CPU, GPU, and other component from scratch) design                                                                                  |
+| Python                | AI, Image processing, Data Analysis                                                                                                                     |
+| JavaScript/TypeScript | Web development ( React, Vite, NextJS ), Application Programming Interface (API), Chatbot ( Discord )                                                   |
+| Go                    | Application Programming Interface (API), microservices architecture, monolith architecture                                                              |
+| Java                  | Object Oriented Programming, Application Programming Interface (API)                                                                                    |
+| Matlab                | Design model AI, Data Analysis, Generate model to C/C++                                                                                                 |
 
 </div>
-
-<!-- ### 📔 Runtime -->
-<h3 align="center">📔 Runtime</h3>
-<p align="center">
-  <a href="https://nodejs.org"><img src="https://nodejs.org/static/logos/jsIconGreen.svg" height="50" alt="NodeJS Logo" /></a>
-  <a href="https://bun.sh/"><img src="https://bun.sh/logo.svg" height="50" alt="Bun Logo" /></a>
-</p>
 
 <!-- ### 👾 Program -->
 <h3 align="center">👾 Program</h3>
 <p align="center">
   <a href="https://code.visualstudio.com"><img src="https://code.visualstudio.com/assets/branding/code-stable.png" height="32" alt="Visual Studio Code Logo" /></a>
   <a href="https://zed.dev/"><img src="https://zed.dev/_next/static/media/stable-app-logo.9b5f959f.png" height="32" alt="Zed Code Editor Logo" /></a>
-  <a href="https://www.arduino.cc/en/software"><img src="https://www.arduino.cc/wiki/static/arduino-app-76bd27c4ce7246825aceb8efe2871f7a.svg" height="32" alt="Arduino IDE Logo" /></a>
+  <!-- ollama -->
+  <a href="https://ollama.com"><img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" height="32" alt="Ollama Logo" /></a>
+  <a href="https://lmstudio.ai"><img src="https://lmstudio.ai/_next/static/media/lmstudio-app-logo.11b4d746.webp" height="32" alt="Ollama Logo" /></a>
   <a href="https://www.docker.com"><img src="https://th.bing.com/th/id/ODF.gH2yuzosLzWQLUj8L5BnDw?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="32" alt="Docker Logo" /></a>
   <a href="https://kubernetes.io/"><img src="https://th.bing.com/th/id/ODF.Z1wLDzrJ0qpybOl82TvrCA?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="32" alt="Docker Logo" /></a>
   <a href="https://www.figma.com"><img src="https://th.bing.com/th/id/ODF.1inOPFxES_vq1HmkeJGrxQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="32" alt="Figma Logo" /></a>
   <a href="https://www.postman.com"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" height="32" alt="Postman Logo" /></a>
+  <a href="https://www.usebruno.com/"><img src="https://th.bing.com/th/id/ODF.QbgCgm4XUKYMUEXEM8N9DQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="32" alt="Postman Logo" /></a>
+  <a href="https://www.arduino.cc/en/software"><img src="https://www.arduino.cc/wiki/static/arduino-app-76bd27c4ce7246825aceb8efe2871f7a.svg" height="32" alt="Arduino IDE Logo" /></a>
   <a href="https://www.blender.org"><img src="https://download.blender.org/branding/blender_logo_socket.png" height="32" alt="Blender Logo" /></a>
 </p>
 
@@ -79,6 +78,13 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
   <a href="https://redis.io"><img src="https://th.bing.com/th/id/ODF.WcH1HNXG2kB-ROnG1upm_Q?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="32" alt="Redis Logo" /></a>
   <a href="https://qdrant.tech/"><img src="https://th.bing.com/th/id/ODF.KK3Pzu4FIyWcW6GCoBCQcA?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" height="32" alt="Qdrant Logo" /></a>
 
+</p>
+
+<!-- ### 📔 Runtime -->
+<h3 align="center">📔 Runtime</h3>
+<p align="center">
+  <a href="https://nodejs.org"><img src="https://nodejs.org/static/logos/jsIconGreen.svg" height="32" alt="NodeJS Logo" /></a>
+  <a href="https://bun.sh/"><img src="https://bun.sh/logo.svg" height="32" alt="Bun Logo" /></a>
 </p>
 
 <!-- ### ⛅ Cloud use -->
