@@ -2,25 +2,34 @@
 
 I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at Sripatum University Bang Khen. I have highly motivated in High Performance Computer, Internet of things, Network and Security. Proficient in various programming languages, technologies with a strong background in web development, mobile app development, data science, artificial intelligence, computer architecture( FPGA ), internet of things.
 
+<details open>
+<summary>📫 Connect with me</summary>
+
+###
+<a href="https://www.linkedin.com/in/krid" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+<a href="https://github.com/KridsadakornNuallaoong" target="_blank">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=272733" alt="LinkedIn Badge" />
+</a>
+</details>
+
+<details open>
+<summary>🔠 Language</summary>
+
+### 
+<a href="/" target="_blank">
+  <img src="https://img.shields.io/badge/Thai-Native-609e72?style=for-the-badge&logo=thailand&logoColor=white" alt="Thai Language Badge" />
+</a>
+<a href="/" target="_blank">
+  <img src="https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge&logo=english&logoColor=white" alt="English Language Badge" />
+</a>
+<a href="/" target="_blank">
+  <img src="https://img.shields.io/badge/Japanese-Beginner-red?style=for-the-badge&logo=japan&logoColor=white" alt="Japanese Language Badge" />
+</a>
+</details>
+
 ---
-
-<h3 align="center">📫 Connect with me</h3>
-
-<p align="center">
-<a href="https://www.github.com/KidsadakornNuallaoong" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /> </picture> </a>
-<a href="https://www.linkedin.com/in/kidsadakorn-nuallaoong-623b05270/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /> </picture> </a>
-</p>
-
-<h3 align="center">🔠 Language</h3>
-<div align="center">
-
-| Language | Proficiency  |
-| -------- | ------------ |
-| Thai     | Native       |
-| English  | Intermediate |
-| Japanese | Beginner     |
-
-</div>
 
 <!-- ### 🛠️ Programming Skills -->
 <h3 align="center">🛠️ Programming Skills</h3>
@@ -34,7 +43,7 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
 | VHDL                  | Hardware component design                                                                                       |
 | Python                | AI, Image processing, Data Analysis                                                                             |
 | JavaScript/TypeScript | Web development ( React, Vite, NextJS ), API, Chatbot ( Discord )                                               |
-| Go                    | API                                                                                                             |
+| Go                    | API, microservices architecture, monolith architecture                                                          |
 | Java                  | Object Oriented Programming                                                                                     |
 | Matlab                | Design model AI, Data Analysis, Generate model to C/C++                                                         |
 
@@ -54,6 +63,7 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
   <a href="https://zed.dev/"><img src="https://zed.dev/_next/static/media/stable-app-logo.9b5f959f.png" height="32" alt="Zed Code Editor Logo" /></a>
   <a href="https://www.arduino.cc/en/software"><img src="https://www.arduino.cc/wiki/static/arduino-app-76bd27c4ce7246825aceb8efe2871f7a.svg" height="32" alt="Arduino IDE Logo" /></a>
   <a href="https://www.docker.com"><img src="https://th.bing.com/th/id/ODF.gH2yuzosLzWQLUj8L5BnDw?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="32" alt="Docker Logo" /></a>
+  <a href="https://kubernetes.io/"><img src="https://th.bing.com/th/id/ODF.Z1wLDzrJ0qpybOl82TvrCA?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="32" alt="Docker Logo" /></a>
   <a href="https://www.figma.com"><img src="https://th.bing.com/th/id/ODF.1inOPFxES_vq1HmkeJGrxQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="32" alt="Figma Logo" /></a>
   <a href="https://www.postman.com"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" height="32" alt="Postman Logo" /></a>
   <a href="https://www.blender.org"><img src="https://download.blender.org/branding/blender_logo_socket.png" height="32" alt="Blender Logo" /></a>
@@ -67,6 +77,7 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
   <a href="https://www.postgresql.org"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="32" alt="PostgreSQL Logo" /></a>
   <a href="https://www.mongodb.com"><img src="https://thumbs.bfldr.com/at/8fwpg88htgg8pw6bmqx7v6vr/v/1069931062?expiry=1770383184&fit=bounds&height=800&sig=NDc1MDdmZDA2NDgyZGUxNDQ4MmU5MDAyZGI1MGYyMGE5NDIyOWE5MQ%3D%3D&width=1100" height="32" alt="MongoDB Logo" /></a>
   <a href="https://redis.io"><img src="https://th.bing.com/th/id/ODF.WcH1HNXG2kB-ROnG1upm_Q?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="32" alt="Redis Logo" /></a>
+  <a href="https://qdrant.tech/"><img src="https://th.bing.com/th/id/ODF.KK3Pzu4FIyWcW6GCoBCQcA?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" height="32" alt="Qdrant Logo" /></a>
 
 </p>
 
@@ -98,22 +109,26 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
 
 | Skill                           | Description                                 |
 | ------------------------------- | ------------------------------------------- |
-| Web Deployment                  | Cloudflare                                  |
-| 3D Model Design                 | Beginner                                    |
+| Code Optimization               | Performance tuning and resource management  |
+| DevOps                          | CI/CD, containerization, server management  |
 | Logic Circuit Design            | Digital and Analog Circuits                 |
+| Embedded Systems Development    | Microcontroller programming and interfacing |
+| 3D Model Design                 | Beginner                                    |
 | Computer Environment Management | Setup and maintain development environments |
 
 </div>
 </div>
 
----
-
 <!-- ### 📊 GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
+<details>
+<summary align="center"><h3 align="center">📊 GitHub Stats</h3></summary>
 
-<div align="center">
-  <a href="https://github.com/KridsadakornNuallaoong"><img src="https://github-readme-stats.vercel.app/api?username=KridsadakornNuallaoong&show_icons=true&hide=&count_private=true&theme=radical&hide_border=true&show_icons=true" alt="KridsadakornNuallaoong's GitHub stats" /></a>
+  <div align="center">
+    <a href="https://github.com/KridsadakornNuallaoong"><img src="https://github-readme-stats.vercel.app/api?username=KridsadakornNuallaoong&show_icons=true&hide=&count_private=true&theme=radical&hide_border=true&show_icons=true" alt="KridsadakornNuallaoong's GitHub stats" /></a>
+  </div>
 
-<a href="https://github.com/KridsadakornNuallaoong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KridsadakornNuallaoong&langs_count=20&theme=radical&hide_border=true&include_all_ccommits=true&count_private=true&layout=compact" alt="Top Languages" /></a>
+  <div align="center">
+    <a href="https://github.com/KridsadakornNuallaoong"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KridsadakornNuallaoong&langs_count=20&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></a>
+  </div>
 
-</div>
+</details>
