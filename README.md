@@ -38,16 +38,16 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
 
 <div align="center">
 
-| Skills                   | Description                                                                                                                                                                                                         |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| c/c++                    | Object Oriented Programming, AI, Image, Application Programming Interface (API), Parallel computing, Internet of things ( Arduino, ESP32 Series, STM32)                                                             |
-| Rust                     | (in learning)                                                                                                                                                                                                       |
-| VHDL                     | Hardware component (CPU, GPU, and other component from scratch) design                                                                                                                                              |
-| Python, Jupyter Notebook | AI (Agentic development, Orchestration, MCP Tools), Machine Learning model training, Image processing, Data Analysis, Application Programming Interface (API), MCP Server, Websocket, Rest API, Grpc, Mqtt, GraphQL |
-| JavaScript/TypeScript    | Web development ( React, Vite, NextJS ), Application Programming Interface (API), Chatbot ( Discord )                                                                                                               |
-| Go                       | Application Programming Interface (API), MCP Server, Websocket, Rest API, Grpc, Mqtt, GraphQL, microservices architecture, monolith architecture                                                                    |
-| Java                     | Object Oriented Programming, Application Programming Interface (API)                                                                                                                                                |
-| Matlab                   | Design model AI, Data Analysis, Generate model to C/C++                                                                                                                                                             |
+| Skills                   | Description                                                                                                                                                                                                           |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| c/c++                    | Object Oriented Programming, AI, Image, Application Programming Interface ( API ), Parallel computing, Internet of things ( Arduino, ESP32 Series, STM32 )                                                            |
+| Rust                     | ( in learning )                                                                                                                                                                                                       |
+| VHDL                     | Hardware component ( CPU, GPU, and other component from scratch ) design                                                                                                                                              |
+| Python, Jupyter Notebook | AI (Agentic development, Orchestration, MCP Tools), Machine Learning model training, Image processing, Data Analysis, Application Programming Interface ( API ), MCP Server, Websocket, Rest API, Grpc, Mqtt, GraphQL |
+| JavaScript/TypeScript    | Web development ( React, Vite, NextJS ), Application Programming Interface ( API ), Chatbot ( Discord )                                                                                                               |
+| Go                       | Application Programming Interface ( API ), MCP Server, Websocket, Rest API, Grpc, Mqtt, GraphQL, microservices architecture, monolith architecture                                                                    |
+| Java                     | Object Oriented Programming, Application Programming Interface ( API )                                                                                                                                                |
+| Matlab                   | Design model AI, Data Analysis, Generate model to C/C++                                                                                                                                                               |
 
 </div>
 
