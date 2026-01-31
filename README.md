@@ -170,11 +170,10 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
 <summary align="center"><h3 align="center">📊 GitHub Stats</h3></summary>
 
   <div align="center">
-    <a href="https://github.com/KridsadakornNuallaoong"><img src="https://github-readme-stats.vercel.app/api?username=KridsadakornNuallaoong&show_icons=true&hide=&count_private=true&theme=radical&hide_border=true&show_icons=true" alt="KridsadakornNuallaoong's GitHub stats" /></a>
-  </div>
 
-  <div align="center">
-    <a href="https://github.com/KridsadakornNuallaoong"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KridsadakornNuallaoong&langs_count=20&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></a>
+| <a href="https://github.com/KridsadakornNuallaoong"><img src="https://github-readme-stats.vercel.app/api?username=KridsadakornNuallaoong&show_icons=true&hide=&count_private=true&theme=radical&hide_border=true&show_icons=true" alt="KridsadakornNuallaoong's GitHub stats" /></a> | <a href="https://github.com/KridsadakornNuallaoong"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KridsadakornNuallaoong&langs_count=20&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
   </div>
 
 </details>
