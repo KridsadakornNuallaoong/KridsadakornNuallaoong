@@ -68,7 +68,6 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
   <a href="https://www.usebruno.com"><img src="https://www.usebruno.com/favicon.ico" height="32" alt="Postman Logo" /></a>
   <a href="https://www.arduino.cc/en/software"><img src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico" height="32" alt="Arduino IDE Logo" /></a>
   <a href="https://www.blender.org"><img src="https://th.bing.com/th/id/ODF.qly0tmpJ9EoFvJgTBtD5xw?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" height="32" alt="Blender Logo" /></a>
-  <a href="https://www.unrealengine.com"><img src="https://www.unrealengine.com/cosmos/static/favicons/favicon.svg" height="32" alt="Unreal Engine Logo" /></a>
 </p>
 
 <!-- Framework -->
