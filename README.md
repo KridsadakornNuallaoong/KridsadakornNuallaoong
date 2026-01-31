@@ -138,7 +138,7 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
 
 <div align="center">
 
-| Skill                  | Description                                            |
+| Skills                 | Description                                            |
 | ---------------------- | ------------------------------------------------------ |
 | Linux Distributions    | Ubuntu, Arch Linux, Kali Linux, Debian, CentOS, Fedora |
 | Network Management     | Configuration, troubleshooting, firewalls              |
@@ -151,7 +151,7 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
 <h3 align="center">🛠️ Other skills</h3>
 <div align="center">
 
-| Skill                           | Description                                 |
+| Skills                          | Description                                 |
 | ------------------------------- | ------------------------------------------- |
 | Code Optimization               | Performance tuning and resource management  |
 | DevOps                          | CI/CD, containerization, server management  |
