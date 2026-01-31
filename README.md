@@ -57,7 +57,7 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
   <a href="https://code.visualstudio.com"><img src="https://code.visualstudio.com/assets/branding/code-stable.png" height="32" alt="Visual Studio Code Logo" /></a>
   <a href="https://visualstudio.microsoft.com"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2025/11/visual-studio-26-icon.webp" height="32" alt="Visual Studio Code Logo" /></a>
   <a href="https://zed.dev"><img src="https://zed.dev/_next/static/media/stable-app-logo.9b5f959f.png" height="32" alt="Zed Code Editor Logo" /></a>
-  <!-- ollama -->
+  <a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html"><img src="https://th.bing.com/th/id/ODF.6A8G2200Ykr1ukzdE-jxyA?w=32&h=32&qlt=93&pcl=fffffa&o=6&pid=1.2" height="32" alt="Zed Code Editor Logo" /></a>
   <a href="https://ollama.com"><img src="https://ollama.com/public/icon-64x64.png" height="32" alt="Ollama Logo" /></a>
   <a href="https://lmstudio.ai"><img src="https://lmstudio.ai/_next/static/media/lmstudio-app-logo.11b4d746.webp" height="32" alt="Ollama Logo" /></a>
   <a href="https://www.docker.com"><img src="https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-32x32.png" height="32" alt="Docker Logo" /></a>
