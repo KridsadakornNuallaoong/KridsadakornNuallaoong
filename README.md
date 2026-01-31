@@ -55,18 +55,20 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
 <h3 align="center">👾 Software experience</h3>
 <p align="center">
   <a href="https://code.visualstudio.com"><img src="https://code.visualstudio.com/assets/branding/code-stable.png" height="32" alt="Visual Studio Code Logo" /></a>
-  <a href="https://zed.dev/"><img src="https://zed.dev/_next/static/media/stable-app-logo.9b5f959f.png" height="32" alt="Zed Code Editor Logo" /></a>
+  <a href="https://visualstudio.microsoft.com"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2025/11/visual-studio-26-icon.webp" height="32" alt="Visual Studio Code Logo" /></a>
+  <a href="https://zed.dev"><img src="https://zed.dev/_next/static/media/stable-app-logo.9b5f959f.png" height="32" alt="Zed Code Editor Logo" /></a>
   <!-- ollama -->
   <a href="https://ollama.com"><img src="https://ollama.com/public/icon-64x64.png" height="32" alt="Ollama Logo" /></a>
   <a href="https://lmstudio.ai"><img src="https://lmstudio.ai/_next/static/media/lmstudio-app-logo.11b4d746.webp" height="32" alt="Ollama Logo" /></a>
   <a href="https://www.docker.com"><img src="https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-32x32.png" height="32" alt="Docker Logo" /></a>
   <a href="https://kubernetes.io/"><img src="https://kubernetes.io/icons/favicon-64.png" height="32" alt="Docker Logo" /></a>
-  <a href="https://www.virtualbox.org/"><img src="https://www.virtualbox.org/favicon.ico" height="32" alt="VirtualBox Logo" /></a>
+  <a href="https://www.virtualbox.org"><img src="https://www.virtualbox.org/favicon.ico" height="32" alt="VirtualBox Logo" /></a>
   <a href="https://www.figma.com"><img src="https://static.figma.com/app/icon/2/favicon.svg" height="32" alt="Figma Logo" /></a>
   <a href="https://www.postman.com"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" height="32" alt="Postman Logo" /></a>
-  <a href="https://www.usebruno.com/"><img src="https://www.usebruno.com/favicon.ico" height="32" alt="Postman Logo" /></a>
+  <a href="https://www.usebruno.com"><img src="https://www.usebruno.com/favicon.ico" height="32" alt="Postman Logo" /></a>
   <a href="https://www.arduino.cc/en/software"><img src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico" height="32" alt="Arduino IDE Logo" /></a>
   <a href="https://www.blender.org"><img src="https://th.bing.com/th/id/ODF.qly0tmpJ9EoFvJgTBtD5xw?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" height="32" alt="Blender Logo" /></a>
+  <a href="https://www.unrealengine.com"><img src="https://www.unrealengine.com/cosmos/static/favicons/favicon.svg" height="32" alt="Unreal Engine Logo" /></a>
 </p>
 
 <!-- Framework -->
