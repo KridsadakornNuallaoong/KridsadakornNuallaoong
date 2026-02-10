@@ -116,7 +116,7 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
   <a href="https://www.mongodb.com"><img src="https://www.mongodb.com/assets/images/global/favicon.ico" height="32" alt="MongoDB Logo" /></a>
   <a href="https://redis.io"><img src="https://th.bing.com/th/id/ODF.WcH1HNXG2kB-ROnG1upm_Q?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="32" alt="Redis Logo" /></a>
   <a href="https://qdrant.tech/"><img src="https://qdrant.tech/favicon/favicon.ico" height="32" alt="Qdrant Logo" /></a>
-  <a href="https://docs.trychroma.com"><img src="https://docs.trychroma.com/mintlify-assets/_mintlify/favicons/chroma-8943dec5/ONosoXD-NK5yWTpa/_generated/favicon/apple-touch-icon.png" height="32" alt="SQLite Logo" /></a>
+  <a href="https://docs.trychroma.com"><img src="https://docs.trychroma.com/mintlify-assets/_mintlify/favicons/chroma-8943dec5/ONosoXD-NK5yWTpa/_generated/favicon/apple-touch-icon.png" height="32" alt="ChromaDB Logo" /></a>
 </p>
 
 <!-- ### 📔 Runtime -->
