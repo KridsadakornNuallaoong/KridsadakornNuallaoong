@@ -92,7 +92,7 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
   <!-- fastapi -->
   <a href="https://fastapi.tiangolo.com"><img src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" height="32" alt="FastAPI Logo" /></a>
   <!-- langchain -->
-  <a href="https://langchain.com"><img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/65c50ca4352352dd6a747e69_favicon.png" height="32" alt="LangChain Logo" /></a>
+  <a href="https://langchain.com"><img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69a17e4a429d54e956e2a763_favicon.png" height="32" alt="LangChain Logo" /></a>
   <!-- huggingface -->
   <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="32" alt="HuggingFace Logo" /></a>
   <!-- tensorflow -->
