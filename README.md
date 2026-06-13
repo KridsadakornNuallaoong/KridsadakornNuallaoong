@@ -56,7 +56,7 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
 <p align="center">
   <a href="https://code.visualstudio.com"><img src="https://code.visualstudio.com/assets/branding/code-stable.png" height="32" alt="Visual Studio Code Logo" /></a>
   <a href="https://visualstudio.microsoft.com"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2025/11/visual-studio-26-icon.webp" height="32" alt="Visual Studio Code Logo" /></a>
-  <a href="https://zed.dev"><img src="https://zed.dev/_next/static/media/stable-app-logo.9b5f959f.png" height="32" alt="Zed Code Editor Logo" /></a>
+  <a href="https://zed.dev"><img src="https://zed.dev/favicon_white_64.png" height="32" alt="Zed Code Editor Logo" /></a>
   <a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html"><img src="https://th.bing.com/th/id/ODF.6A8G2200Ykr1ukzdE-jxyA?w=32&h=32&qlt=93&pcl=fffffa&o=6&pid=1.2" height="32" alt="Zed Code Editor Logo" /></a>
   <a href="https://ollama.com"><img src="https://ollama.com/public/icon-64x64.png" height="32" alt="Ollama Logo" /></a>
   <a href="https://lmstudio.ai"><img src="https://lmstudio.ai/_next/static/media/lmstudio-app-logo.11b4d746.webp" height="32" alt="Ollama Logo" /></a>
@@ -80,7 +80,7 @@ I am a 4'th year student majoring in Computer Engineering ( Bachelor degree ) at
   <!-- vite -->
   <a href="https://vitejs.dev/"><img src="https://th.bing.com/th/id/ODF.pTUKCAaCOjpUdJ-rk1Lskg?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" height="32" alt="Vite Logo" /></a>
   <!-- express -->
-  <a href="https://expressjs.com/"><img src="https://expressjs.com/images/favicon.png" height="32" alt="Express Logo" /></a>
+  <a href="https://expressjs.com/"><img src="https://expressjs.com/favicon.svg" height="32" alt="Express Logo" /></a>
   <!-- elysia -->
   <a href="https://elysiajs.com/"><img src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4" height="32" alt="Elysia Logo" /></a>
   <!-- gin -->
