@@ -1,6 +1,6 @@
 # Hi, My name is Kridsadakorn Nuallaoong
 
-I am a graduate student majoring in Computer Engineering ( Bachelor degree ) at Sripatum University Bang Khen. I have highly motivated in High Performance Computer, Internet of things, Network and Security. Proficient in various programming languages, technologies with a strong background in web development, mobile app development, data science, artificial intelligence, computer architecture( FPGA ), internet of things.
+I am a graduated student majoring in Computer Engineering ( Bachelor degree ) at Sripatum University Bang Khen. I have highly motivated in High Performance Computer, Internet of things, Network and Security. Proficient in various programming languages, technologies with a strong background in web development, mobile app development, data science, artificial intelligence, computer architecture( FPGA ), internet of things.
 
 <details open>
 <summary>📫 Connect with me</summary>
