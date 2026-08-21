@@ -54,7 +54,7 @@ I am a graduated student majoring in Computer Engineering ( Bachelor degree ) at
 <!-- ### 👾 Software experience -->
 <h3 align="center">👾 Software experience</h3>
 <p align="center">
-  <a href="https://code.visualstudio.com"><img src="https://code.visualstudio.com/assets/branding/code-stable.png" height="32" alt="Visual Studio Code Logo" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://code.visualstudio.com/assets/favicon.ico" height="32" alt="Visual Studio Code Logo" /></a>
   <a href="https://visualstudio.microsoft.com"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2025/11/visual-studio-26-icon.webp" height="32" alt="Visual Studio Code Logo" /></a>
   <a href="https://zed.dev"><img src="https://zed.dev/favicon_white_64.png" height="32" alt="Zed Code Editor Logo" /></a>
   <a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html"><img src="https://th.bing.com/th/id/ODF.6A8G2200Ykr1ukzdE-jxyA?w=32&h=32&qlt=93&pcl=fffffa&o=6&pid=1.2" height="32" alt="Zed Code Editor Logo" /></a>
@@ -111,7 +111,7 @@ I am a graduated student majoring in Computer Engineering ( Bachelor degree ) at
 <h3 align="center">💾 Database </h3>
 
 <p align="center">
-  <a href="https://www.mysql.com"><img src="https://labs.mysql.com/common/themes/sakila/favicon.ico" height="32" alt="MySQL Logo" /></a>
+  <a href="https://www.mysql.com"><img src="https://www.mysql.com/favicon.ico" height="32" alt="MySQL Logo" /></a>
   <a href="https://www.postgresql.org"><img src="https://www.postgresql.org/favicon.ico" height="32" alt="PostgreSQL Logo" /></a>
   <a href="https://www.mongodb.com"><img src="https://www.mongodb.com/assets/images/global/favicon.ico" height="32" alt="MongoDB Logo" /></a>
   <a href="https://redis.io"><img src="https://th.bing.com/th/id/ODF.WcH1HNXG2kB-ROnG1upm_Q?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="32" alt="Redis Logo" /></a>
