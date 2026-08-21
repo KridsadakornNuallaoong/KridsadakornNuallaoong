@@ -61,6 +61,7 @@ I am a graduated student majoring in Computer Engineering ( Bachelor degree ) at
   <a href="https://ollama.com"><img src="https://ollama.com/public/icon-64x64.png" height="32" alt="Ollama Logo" /></a>
   <a href="https://lmstudio.ai"><img src="https://lmstudio.ai/_next/static/media/lmstudio-app-logo.11b4d746.webp" height="32" alt="Ollama Logo" /></a>
   <a href="https://www.docker.com"><img src="https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-32x32.png" height="32" alt="Docker Logo" /></a>
+  <a href="https://podman.io"><img src="https://podman.io/favicon.ico" height="32" alt="Podman Logo" /></a>
   <a href="https://kubernetes.io/"><img src="https://kubernetes.io/icons/favicon-64.png" height="32" alt="Docker Logo" /></a>
   <a href="https://www.virtualbox.org"><img src="https://www.virtualbox.org/favicon.ico" height="32" alt="VirtualBox Logo" /></a>
   <a href="https://www.figma.com"><img src="https://static.figma.com/app/icon/2/favicon.svg" height="32" alt="Figma Logo" /></a>
